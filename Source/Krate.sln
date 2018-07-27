@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Krate.Test", "Krate.Test\Krate.Test.csproj", "{3412CF1C-01FF-48AB-B94C-DA7317FC1135}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Krate.Test.Tests", "Krate.Test.Tests\Krate.Test.Tests.csproj", "{E846E00B-056D-4D37-90F1-09B6430F109C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3412CF1C-01FF-48AB-B94C-DA7317FC1135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3412CF1C-01FF-48AB-B94C-DA7317FC1135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3412CF1C-01FF-48AB-B94C-DA7317FC1135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3412CF1C-01FF-48AB-B94C-DA7317FC1135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E846E00B-056D-4D37-90F1-09B6430F109C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E846E00B-056D-4D37-90F1-09B6430F109C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E846E00B-056D-4D37-90F1-09B6430F109C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E846E00B-056D-4D37-90F1-09B6430F109C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE3CEF3-C429-4A26-A130-8E300A83F06F}
+	EndGlobalSection
+EndGlobal
